@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 var cli = require('cli')
   , timestring = require('timestring')
   , Timer = require('timer.js');
