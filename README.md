@@ -1,7 +1,7 @@
 countdown.js
 ============
 
-`countdown.js` is a super-simple command line egg-timer.
+`countdown.js` is a dead-simple command line egg-timer.
 
 Install it with
 
