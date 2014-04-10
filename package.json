@@ -1,0 +1,11 @@
+{
+  "name": "countdown.js",
+  "description": "super-simple command line egg-timer",
+  "author": "Dominik Schreiber <dominik@dominikschreiber.com>",
+  "version": "0.0.2",
+  "devDependencies": {
+    "cli": "^0.4.5",
+    "timer.js": "^0.2.0",
+    "timestring": "^1.0.1"
+  }
+}
