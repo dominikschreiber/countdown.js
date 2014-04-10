@@ -17,7 +17,7 @@ countdown.js 15m
 
 Output:
 
-```bash
+```
 $ countdown.js 4s
 INFO: Countdown ends at 09:24:51
 [##########################################################################] 100%
