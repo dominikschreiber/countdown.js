@@ -1,7 +1,10 @@
 {
   "name": "countdown.js",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "super-simple command line egg-timer",
+  "directories": {
+      "bin": "."
+  },
   "repository": {
       "type": "git",
       "url": "git://github.com/dominikschreiber/countdown.js.git"
@@ -21,7 +24,7 @@
   },
   "license": "MIT",
   "readmeFilename": "README.md",
-  "devDependencies": {
+  "dependencies": {
     "cli": "^0.4.5",
     "timer.js": "^0.2.0",
     "timestring": "^1.0.1"
