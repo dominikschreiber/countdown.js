@@ -1,9 +1,9 @@
 {
   "name": "countdown.js",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "super-simple command line egg-timer",
   "directories": {
-      "bin": "."
+      "bin": "./bin"
   },
   "repository": {
       "type": "git",
