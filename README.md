@@ -15,6 +15,15 @@ Use it with
 countdown.js 15m
 ```
 
+Output:
+
+```bash
+$ countdown.js 4s
+INFO: Countdown ends at 09:24:51
+[##########################################################################] 100%
+INFO: Countdown has ended.
+```
+
 **Available time strings to count down:** `args[0]` is parsed by [timestring](https://www.npmjs.org/package/timestring), so anything like `1h 15m`, `2 days 4 hours 3 minutes`, `22s` will work (see timestring package for detailed information).
 
 Contributing
