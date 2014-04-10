@@ -1,8 +1,27 @@
 {
   "name": "countdown.js",
-  "description": "super-simple command line egg-timer",
-  "author": "Dominik Schreiber <dominik@dominikschreiber.com>",
   "version": "0.0.2",
+  "description": "super-simple command line egg-timer",
+  "main": "countdown.js",
+  "repository": {
+      "type": "git",
+      "url": "git://github.com/dominikschreiber/countdown.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dominikschreiber/countdown.js/issues",
+    "email": "dominik@dominikschreiber.com"
+  },
+  "keywords": [
+    "cli",
+    "countdown",
+    "timer"
+  ],
+  "author": {
+      "name": "Dominik Schreiber",
+      "email": "dominik@dominikschreiber.com>"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
   "devDependencies": {
     "cli": "^0.4.5",
     "timer.js": "^0.2.0",
