@@ -29,7 +29,7 @@ INFO: Countdown has ended.
 Contributing
 ------------
 
-**Reports:** Feel free to open an [Issue](https://github.com/dominikschreiber/countdown.js/issues) for any bug you encounter or any feature you'd like. I can't assert that I'll be on it asap, but I'll definitively have a look at it and do my best.
+**Reports:** Feel free to open an [Issue](https://github.com/dominikschreiber/countdown.js/issues/new) for any bug you encounter or any feature you'd like. I can't assert that I'll be on it asap, but I'll definitively have a look at it and do my best.
 
 **Pull Requests:** Just fork the repo, implement your awesome stuff, and send me a pull request. I'll love to merge it.
 
